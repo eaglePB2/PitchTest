@@ -93,3 +93,8 @@ inputs, algorithms, outputs
 ---?color=black
 ![](assets/ASCII.png)
 
+---?color=black
+![](assets/algorithm.png)
+
+---?color=black
+The End.
