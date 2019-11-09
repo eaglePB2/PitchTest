@@ -12,8 +12,7 @@ inputs, algorithms, outputs
 ---
 ## decimal
 0,1,2,3,4,5,6,7,8,9
----
-?color=linear-gradient(180deg, white 75%, black 25%)
+---?color=linear-gradient(180deg, white 75%, black 25%)
 
 @snap[west span-50]
 ## 1   2   3
