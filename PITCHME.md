@@ -1,4 +1,9 @@
-# Let's Get Started
+# This is CS.
 ---
-#Hello world!
-TIme to show da wai~
+
+---
+## Computation
+inputs, algorithms, outputs
+---
+## inputs,outputs
+---
