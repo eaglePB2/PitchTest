@@ -1,3 +1,4 @@
+---?color=black
 # This is CS.
 ---
 ![](assets/CS_bg.png)
@@ -14,7 +15,7 @@ inputs, algorithms, outputs
 0,1,2,3,4,5,6,7,8,9
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 
-@snap[west span-50]
+@snap[middle span-100]
 ## 1   2   3
 @snapend
 
