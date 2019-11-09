@@ -28,10 +28,10 @@ inputs, algorithms, outputs
 @snapend
 
 ---?color=black
-@snap[north span-50 text-white]
+@snap[text-white]
 @box[bg-black](4  2  1)
 @snapend
 
-@snap[middle span-100 size-3em fragment]
+@snap[middle span-100 fragment]
 @box[bg-black](0  0  0)
 @snapend
