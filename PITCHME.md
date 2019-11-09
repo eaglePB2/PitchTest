@@ -16,7 +16,7 @@ inputs, algorithms, outputs
 ---?color=black
 
 @snap[middle span-100]
-#size[3mm](1   2   3)
+@size[3mm](1   2   3)
 @snapend
 
 @snap[south span-100 text-white]
