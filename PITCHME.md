@@ -85,10 +85,10 @@ inputs, algorithms, outputs
 ![](assets/bulb.png)
 
 ---?color=black
-![](assets/rooms.png)
+![](assets/room.png)
 
 ---?color=black
-![](assets/0010010.png)
+![](assets/00110010.png)
 
 ---?color=black
 ![](assets/ASCII.png)
