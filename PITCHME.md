@@ -89,3 +89,7 @@ inputs, algorithms, outputs
 
 ---?color=black
 ![](assets/00110010.png)
+
+---?color=black
+![](assets/ascii.png)
+
