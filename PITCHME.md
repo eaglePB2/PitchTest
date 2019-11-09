@@ -32,7 +32,7 @@ inputs, algorithms, outputs
 @snapend
 
 ---?color=black
-@snap[text-white]
+@snap[south text-white]
 @box[bg-black](4  2  1)
 @snapend
 
