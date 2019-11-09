@@ -1,19 +1,19 @@
 ---?color=black
 # This is CS.
----
+---?color=black
 ![](assets/CS_bg.png)
----
+---?color=black
 ## Computation
 inputs, algorithms, outputs
----
+---?color=black
 ## inputs,outputs
----
+---?color=black
 ## binary
 0,1
----
+---?color=black
 ## decimal
 0,1,2,3,4,5,6,7,8,9
----?color=linear-gradient(180deg, white 75%, black 25%)
+---?color=black
 
 @snap[middle span-100]
 ## 1   2   3
