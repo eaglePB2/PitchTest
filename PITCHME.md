@@ -19,15 +19,15 @@ inputs, algorithms, outputs
 @size[3em](1   2   3)
 @snapend
 
-@snap[south span-50 text-white fragment]
+@snap[south span-50 fragment]
 @box[bg-black](100x1+10x2+1x3)
 @snapend
 
-@snap[south span-50 text-white fragment]
+@snap[south span-50 fragment]
 @box[bg-black span-100](100+20+3)
 @snapend
 
-@snap[south span-50 text-white fragment]
+@snap[south span-50 fragment]
 @box[bg-black span-100](123)
 @snapend
 
@@ -36,34 +36,34 @@ inputs, algorithms, outputs
 @box[bg-black](4  2  1)
 @snapend
 
-@snap[middle span-100 text-30 fragment]
+@snap[middle span-50 text-30 fragment]
 @box[bg-black span-100](0  0  0)
 @snapend
 
-@snap[middle span-100 text-30 fragment]
+@snap[middle span-50 text-30 fragment]
 @box[bg-black span-100](0  0  1)
 @snapend
 
-@snap[middle span-100 text-30 fragment]
+@snap[middle span-50 text-30 fragment]
 @box[bg-black span-100](0  1  0)
 @snapend
 
-@snap[middle span-100 text-30 fragment]
+@snap[middle span-50 text-30 fragment]
 @box[bg-black span-100](0  1  1)
 @snapend
 
-@snap[middle span-100 text-30 fragment]
+@snap[middle span-50 text-30 fragment]
 @box[bg-black span-100](1  0  0)
 @snapend
 
-@snap[middle span-100 text-30 fragment]
+@snap[middle span-50 text-30 fragment]
 @box[bg-black span-100](1  0  1)
 @snapend
 
-@snap[middle span-100 text-30 fragment]
+@snap[middle span-50 text-30 fragment]
 @box[bg-black span-100](1  1  0)
 @snapend
 
-@snap[middle span-100 text-30 fragment]
+@snap[middle span-50 text-30 fragment]
 @box[bg-black span-100](1  1  1)
 @snapend
