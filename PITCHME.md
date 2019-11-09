@@ -36,34 +36,34 @@ inputs, algorithms, outputs
 @box[bg-black](4  2  1)
 @snapend
 
-@snap[middle span-50 text-30 fragment]
+@snap[midpoint span-50 text-30 fragment]
 @box[bg-black span-100](000)
 @snapend
 
-@snap[middle span-50 text-30 fragment]
+@snap[midpoint span-50 text-30 fragment]
 @box[bg-black span-100](001)
 @snapend
 
-@snap[middle span-50 text-30 fragment]
+@snap[midpoint span-50 text-30 fragment]
 @box[bg-black span-100](010)
 @snapend
 
-@snap[middle span-50 text-30 fragment]
+@snap[midpoint span-50 text-30 fragment]
 @box[bg-black span-100](011)
 @snapend
 
-@snap[middle span-50 text-30 fragment]
+@snap[midpoint span-50 text-30 fragment]
 @box[bg-black span-100](100)
 @snapend
 
-@snap[middle span-50 text-30 fragment]
+@snap[midpoint span-50 text-30 fragment]
 @box[bg-black span-100](101)
 @snapend
 
-@snap[middle span-50 text-30 fragment]
+@snap[midpoint span-50 text-30 fragment]
 @box[bg-black span-100](110)
 @snapend
 
-@snap[middle span-50 text-30 fragment]
+@snap[midpoint span-50 text-30 fragment]
 @box[bg-black span-100](111)
 @snapend
