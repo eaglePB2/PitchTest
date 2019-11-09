@@ -19,7 +19,10 @@ inputs, algorithms, outputs
 @size[3em](1   2   3)
 @snapend
 
-@snap[south span-50 text-white]
+@snap[south span-50 text-white fragment]
 100x1+10x2+1x3
 @snapend
 
+@snap[south span-50 text-white fragment]
+@box[rounded text-white box-black](100+20+3)
+@snapend
