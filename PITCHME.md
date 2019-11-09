@@ -85,16 +85,16 @@ inputs, algorithms, outputs
 ![](assets/bulb.png)
 
 ---?color=black
-![](assets/room.png)
+![](assets/rooms.png)
 
 ---?color=black
-![](assets/00110010.png)
+![](assets/0010010.png)
 
 ---?color=black
 ![](assets/ASCII.png)
 
 ---?color=black
-![](assets/algorithm.png)
+![](assets/Algorithm.png)
 
 ---?color=black
 The End.
