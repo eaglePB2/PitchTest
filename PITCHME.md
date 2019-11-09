@@ -19,7 +19,7 @@ inputs, algorithms, outputs
 @size[3em](1   2   3)
 @snapend
 
-@snap[south span-150 text-white]
+@snap[south span-50 text-white]
 100x1+10x2+1x3
 @snapend
 
