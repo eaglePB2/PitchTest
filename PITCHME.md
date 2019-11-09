@@ -32,38 +32,40 @@ inputs, algorithms, outputs
 @snapend
 
 ---?color=black
-@snap[south text-white]
+@snap[north text-white]
 @box[bg-black](4  2  1)
 @snapend
 
-@snap[midpoint span-50 text-30 fragment]
-@box[bg-black span-100](000)
+@snap[span-50 text-30 fragment]
+@box[bg-black span-100 midpoint](000)
+@box[bg-black span-100 south](0)
 @snapend
 
-@snap[midpoint span-50 text-30 fragment]
-@box[bg-black span-100](001)
+@snap[span-50 text-30 fragment]
+@box[bg-black span-100 midpoint](001)
+@box[bg-black span-100 south](1)
 @snapend
 
-@snap[midpoint span-50 text-30 fragment]
-@box[bg-black span-100](010)
+@snap[span-50 text-30 fragment]
+@box[bg-black span-100 midpoint](010)
 @snapend
 
-@snap[midpoint span-50 text-30 fragment]
-@box[bg-black span-100](011)
+@snap[span-50 text-30 fragment]
+@box[bg-black span-100 midpoint](011)
 @snapend
 
-@snap[midpoint span-50 text-30 fragment]
-@box[bg-black span-100](100)
+@snap[span-50 text-30 fragment]
+@box[bg-black span-100 midpoint](100)
 @snapend
 
-@snap[midpoint span-50 text-30 fragment]
-@box[bg-black span-100](101)
+@snap[span-50 text-30 fragment]
+@box[bg-black span-100 midpoint](101)
 @snapend
 
-@snap[midpoint span-50 text-30 fragment]
-@box[bg-black span-100](110)
+@snap[span-50 text-30 fragment]
+@box[bg-black span-100 midpoint](110)
 @snapend
 
-@snap[midpoint span-50 text-30 fragment]
-@box[bg-black span-100](111)
+@snap[span-50 text-30 fragment]
+@box[bg-black span-100 midpoint](111)
 @snapend
