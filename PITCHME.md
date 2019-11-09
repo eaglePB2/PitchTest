@@ -27,6 +27,10 @@ inputs, algorithms, outputs
 @box[bg-black span-100](100+20+3)
 @snapend
 
+@snap[south span-50 text-white fragment]
+@box[bg-black span-100](123)
+@snapend
+
 ---?color=black
 @snap[text-white]
 @box[bg-black](4  2  1)
