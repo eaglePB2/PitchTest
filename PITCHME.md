@@ -91,5 +91,5 @@ inputs, algorithms, outputs
 ![](assets/00110010.png)
 
 ---?color=black
-![](assets/ascii.png)
+![](assets/ASCII.png)
 
