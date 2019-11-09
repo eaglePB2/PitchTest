@@ -1,20 +1,25 @@
 ---?color=black
 # This is CS.
+
 ---?color=black
 ![](assets/CS_bg.png)
+
 ---?color=black
 ## Computation
 inputs, algorithms, outputs
+
 ---?color=black
 ## inputs,outputs
+
 ---?color=black
 ## binary
 0,1
+
 ---?color=black
 ## decimal
 0,1,2,3,4,5,6,7,8,9
----?color=black
 
+---?color=black
 @snap[middle span-100]
 @size[3em](1   2   3)
 @snapend
@@ -75,3 +80,12 @@ inputs, algorithms, outputs
 @box[bg-black span-100 midpoint text-30](111)
 @box[bg-black span-100 south](7)
 @snapend
+
+---?color=black
+![](assets/bulb.png)
+
+---?color=black
+![](assets/room.png)
+
+---?color=black
+![](assets/00110010.png)
